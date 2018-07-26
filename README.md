@@ -1,4 +1,4 @@
 # WebGLTest
 UnityTest
 
-https://utimamnis.github.io/WebGLTest/
+https://amnihs.github.io/WebGLTest/
